@@ -8,8 +8,8 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Today Unlimited Wordle Today - Play Unlimited Word Guessing Game',
-  description: 'Challenge yourself with Today Unlimited Wordle Today - the addictive word guessing game you can play unlimited times. New words, unlimited plays, track your progress!',
+  title: 'Unlimited Wordle Today - Play Unlimited Word Guessing Game',
+  description: 'Challenge yourself with Unlimited Wordle Today - the addictive word guessing game you can play unlimited times. New words, unlimited plays, track your progress!',
   keywords: 'wordle, word game, puzzle game, brain teaser, vocabulary game, unlimited wordle',
   openGraph: {
     title: 'Today Unlimited Wordle Today',
