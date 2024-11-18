@@ -3,6 +3,9 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Privacy Policy - Today Unlimited Wordle Today',
   description: 'Privacy Policy for Today Unlimited Wordle Today - Learn how we protect your privacy.',
+  alternates: {
+    canonical: 'https://5wordle.com/privacy',
+  },
 };
 
 export default function Privacy() {

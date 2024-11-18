@@ -3,6 +3,9 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Terms of Service - Today Unlimited Wordle Today',
   description: 'Terms of Service for Today Unlimited Wordle Today - Read our terms and conditions.',
+  alternates: {
+    canonical: 'https://5wordle.com/terms',
+  }
 };
 
 export default function Terms() {

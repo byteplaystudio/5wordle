@@ -1,6 +1,13 @@
 import GameBoard from '@/components/GameBoard';
 import HowToPlay from '@/components/HowToPlay';
 import FAQ from '@/components/FAQ';
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://5wordle.com',
+  }
+}
 
 export default function Home() {
   return (
